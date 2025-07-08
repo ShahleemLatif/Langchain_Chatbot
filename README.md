@@ -4,34 +4,34 @@ This repository contains a collection of Streamlit applications demonstrating va
 
 ## Table of Contents
 
-1. [Features](https://www.google.com/search?q=%23features)
+1. [Features]
 
-2. [Applications](https://www.google.com/search?q=%23applications)
+2. [Applications]
 
-   - [1. RAG Document Q&A with Groq (`app.py`)](https://www.google.com/search?q=%231-rag-document-qa-with-groq-app_1py)
+   - [1. RAG Document Q&A with Groq (`app.py`)]
+     
+   - [2. Conversational RAG with PDF Uploads and Chat History (`app.py`)]
 
-   - [2. Conversational RAG with PDF Uploads and Chat History (`app.py`)](https://www.google.com/search?q=%232-conversational-rag-with-pdf-uploads-and-chat-history-app_2py)
+   - [3. Ollama Q&A Chatbot (`app.py`)]
 
-   - [3. Ollama Q&A Chatbot (`app.py`)](https://www.google.com/search?q=%233-ollama-qa-chatbot-app_3py)
+   - [4. Q&A Chatbot with OpenAI (`app.py`)]
 
-   - [4. Q&A Chatbot with OpenAI (`app.py`)](https://www.google.com/search?q=%234-qa-chatbot-with-openai-app_4py)
+   - [5. Langchain: URL Content Summarizer (`app.py`)]
 
-   - [5. Langchain: URL Content Summarizer (`app.py`)](https://www.google.com/search?q=%235-langchain-url-content-summarizer-app_6py)
+3. [Setup and Installation]
 
-3. [Setup and Installation](https://www.google.com/search?q=%23setup-and-installation)
+   - [Prerequisites]
 
-   - [Prerequisites](https://www.google.com/search?q=%23prerequisites)
+   - [Environment Variables and API Keys]
 
-   - [Environment Variables and API Keys](https://www.google.com/search?q=%23environment-variables-and-api-keys)
+   - [Installation]
 
-   - [Installation](https://www.google.com/search?q=%23installation)
+   - [Running the Applications]
 
-   - [Running the Applications](https://www.google.com/search?q=%23running-the-applications)
+4. [Contributing]
 
-4. [Contributing](https://www.google.com/search?q=%23contributing)
-
-5. [License](https://www.google.com/search?q=%23license)
-
+5. [License]
+   
 ## Features
 
 - **Retrieval Augmented Generation (RAG):** Query custom documents (PDFs) to get context-aware answers.
