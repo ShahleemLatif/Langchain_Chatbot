@@ -252,22 +252,37 @@ Create a `requirements.txt` file with the following content:
 
 ```
 
-streamlit\>=1.30.0
-langchain\>=0.2.0
-langchain-core\>=0.2.0
-langchain-community\>=0.2.0
-langchain-openai\>=0.1.0
-langchain-groq\>=0.1.0
-langchain-huggingface\>=0.0.3 
-langchain-chroma\>=0.2.0 
-langchain-text-splitters\>=0.2.0
-python-dotenv\>=1.0.0
-pypdf\>=4.0.0 \# For PDF loading
-faiss-cpu\>=1.7.0 \
-ollama \# (Note: Ollama itself needs to be installed separately)
-validators\>=0.20.0 \
-unstructured[pdf] \# (if using UnstructuredURLLoader with PDFs)
-youtube-transcript-api \# (YoutubeLoader)
+langchain
+ipykernel
+python-dotenv
+langchain_community
+pypdf
+pymupdf
+langchain-text-splitters
+langchain-openai
+langchain-ollama
+chromadb
+langchain_chroma
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+beautifulsoup4
+streamlit
+langchain_core
+fastapi
+uvicorn
+langchain-groq
+duckduckgo-search
+pymupdf
+langserve
+arxiv
+wikipedia
+mysql-connector-python
+SQLAlchemy
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
 
 ```
 
