@@ -258,16 +258,16 @@ langchain-core\>=0.2.0
 langchain-community\>=0.2.0
 langchain-openai\>=0.1.0
 langchain-groq\>=0.1.0
-langchain-huggingface\>=0.0.3 \# For app_2.py
-langchain-chroma\>=0.2.0 \# For app_2.py
+langchain-huggingface\>=0.0.3 
+langchain-chroma\>=0.2.0 
 langchain-text-splitters\>=0.2.0
 python-dotenv\>=1.0.0
 pypdf\>=4.0.0 \# For PDF loading
-faiss-cpu\>=1.7.0 \# For app_1.py
-ollama \# For app_3.py (Note: Ollama itself needs to be installed separately)
-validators\>=0.20.0 \# For app_6.py
-unstructured[pdf] \# For app_6.py (if using UnstructuredURLLoader with PDFs)
-youtube-transcript-api \# For app_6.py (YoutubeLoader)
+faiss-cpu\>=1.7.0 \
+ollama \# (Note: Ollama itself needs to be installed separately)
+validators\>=0.20.0 \
+unstructured[pdf] \# (if using UnstructuredURLLoader with PDFs)
+youtube-transcript-api \# (YoutubeLoader)
 
 ```
 
