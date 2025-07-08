@@ -4,33 +4,33 @@ This repository contains a collection of Streamlit applications demonstrating va
 
 ## Table of Contents
 
-1. [Features]
+1. Features
 
-2. [Applications]
+2. Applications
 
-   - [1. RAG Document Q&A with Groq (`app.py`)]
+   - 1. RAG Document Q&A with Groq (`app.py`)
      
-   - [2. Conversational RAG with PDF Uploads and Chat History (`app.py`)]
+   - 2. Conversational RAG with PDF Uploads and Chat History (`app.py`)
 
-   - [3. Ollama Q&A Chatbot (`app.py`)]
+   - 3. Ollama Q&A Chatbot (`app.py`)
 
-   - [4. Q&A Chatbot with OpenAI (`app.py`)]
+   - 4. Q&A Chatbot with OpenAI (`app.py`)
 
-   - [5. Langchain: URL Content Summarizer (`app.py`)]
+   - 5. Langchain: URL Content Summarizer (`app.py`)
 
-3. [Setup and Installation]
+3. Setup and Installation
 
-   - [Prerequisites]
+   - Prerequisites
 
-   - [Environment Variables and API Keys]
+   - Environment Variables and API Keys
 
-   - [Installation]
+   - Installation
 
-   - [Running the Applications]
+   - Running the Applications
 
-4. [Contributing]
+4. Contributing
 
-5. [License]
+5. License
    
 ## Features
 
