@@ -315,5 +315,5 @@ Contributions are welcome! If you have ideas for new applications, improvements,
 
 ## License
 
-This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
+This project is open-source and available under the Apache 2.0.
 ```
